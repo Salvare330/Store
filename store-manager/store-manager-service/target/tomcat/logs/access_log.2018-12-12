@@ -1,0 +1,2 @@
+127.0.0.1 - - [12/Dec/2018:09:54:18 +0800] "GET /default/coframe/auth/login/login.jsp HTTP/1.1" 404 1023 http-bio-8080-exec-1 40
+127.0.0.1 - - [12/Dec/2018:09:54:18 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 2

@@ -1,0 +1,11 @@
+cn\my\mapper\TbItemParamItemMapper.class
+cn\my\mapper\TbUserMapper.class
+cn\my\mapper\TbItemCatMapper.class
+cn\my\mapper\TbItemDescMapper.class
+cn\my\mapper\TbOrderShippingMapper.class
+cn\my\mapper\TbOrderMapper.class
+cn\my\mapper\TbOrderItemMapper.class
+cn\my\mapper\TbItemMapper.class
+cn\my\mapper\TbContentMapper.class
+cn\my\mapper\TbItemParamMapper.class
+cn\my\mapper\TbContentCategoryMapper.class
